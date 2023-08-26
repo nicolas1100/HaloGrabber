@@ -4,35 +4,65 @@ Halo Grabber, the latest and best ratting tool currently available.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 • GUI Builder.
+
 • UAC Bypass.
+
 • Custom Icon.
+
 • Runs On Startup.
+
 • Disables Windows Defender.
+
 • Anti-VM.
+
 • Blocks AV-Related Sites.
+
 • Melt Stub.
+
 • Fake Error.
+
 • EXE Binder to any files you need.
+
 • File Pumper.
+
 • Obfuscated Code to stop people obtaining your webhook.
+
 • Discord Injection.
+
 • Steals Discord Tokens.
+
 • Steals Steam Session.
+
 • Steals Epic Session.
+
 • Steals Uplay Session.
+
 • Steals Passwords From Many Browsers.
+
 • Steals Cookies From All Browsers.
+
 • Steals History From All Browsers.
+
 • Steals Autofills From All Browsers.
+
 • Steals Minecraft Sessions.
+
 • Steals Telegram Sessions.
+
 • Steals Crypto Wallets.
+
 • Steals Roblox sessions.
+
 • Steals IP Information.
+
 • Steals System Info.
+
 • Steals Saved Wifi Passwords.
+
 • Steals Common Files.
+
 • Captures Screenshot.
+
 • Captures Webcam Image.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,6 +70,7 @@ Halo Grabber, the latest and best ratting tool currently available.
 REQUIREMENTS : 
 
 Python 3.0 or higher added to path. Instructions on how to add it to path are here : https://www.youtube.com/watch?v=4bUOrMj88Pc
+
 A windows 10 or windows 11 operating system. (SOFTWARE WAS TESTED ON WINDOWS 11 BUT WORKS ON WINDOWS 10.)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
